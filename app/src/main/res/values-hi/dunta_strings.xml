@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="dunta_dialog_title">मुफ़्त में Rulivo की सहायता करें</string>
+    <string name="dunta_notification_content">सहायता मोड सक्रिय है। मुख्य मेन्यू में वैकल्पिक सहायता मोड से इसे बंद करें।</string>
+    <string name="dunta_notification_title">Rulivo सहायता मोड</string>
+    <string name="settings_dunta_battery_restricted">सहायता मोड को बैकग्राउंड में दोबारा शुरू करने के लिए बैटरी सेटिंग खोलें और इस ऐप के लिए ऑप्टिमाइज़ न करें चुनें। यह वैकल्पिक है।</string>
+    <string name="settings_dunta_battery_title">वैकल्पिक सहायता मोड</string>
+    <string name="settings_dunta_battery_unrestricted">बैकग्राउंड में दोबारा शुरू करने की अनुमति है। आप इसे Android की बैटरी सेटिंग में बदल सकते हैं।</string>
+    <string name="settings_dunta_disabled">डेटा साझा करना बंद है</string>
+    <string name="settings_dunta_enabled">डेटा साझा करना चालू है</string>
+    <string name="settings_dunta_more_info_title">MAFIX की गोपनीयता नीति</string>
+    <string name="settings_dunta_subtitle">वैकल्पिक। MAFIX LTD के माध्यम से Bright Data को सार्वजनिक वेब डेटा के लिए इंटरनेट कनेक्शन और IP पते का उपयोग करने देता है। कभी भी बंद कर सकते हैं।</string>
+    <string name="settings_dunta_title">डेवलपर की सहायता के लिए डेटा साझा करें</string>
+    <string name="settings_dunta_unavailable">इस संस्करण में सहायता मोड उपलब्ध नहीं है।</string>
+    <string name="support_prompt_control">सक्रिय होने पर सूचना दिखाई जाती है। मुख्य मेन्यू में वैकल्पिक सहायता मोड से इसे कभी भी बंद करें।</string>
+    <string name="support_prompt_enable">हाँ — चालू करें</string>
+    <string name="support_prompt_enable_subtitle">सहायता मोड चालू करें</string>
+    <string name="support_prompt_intro">सहायता मोड MAFIX LTD के SDK के माध्यम से Bright Data नेटवर्क को आपके इंटरनेट कनेक्शन के एक सीमित हिस्से का उपयोग करने देता है। निर्णय आपका है।</string>
+    <string name="support_prompt_network">बैकग्राउंड में Wi-Fi, बहुत सीमित मोबाइल डेटा, आपके IP पते और डिवाइस के कुछ संसाधनों का उपयोग हो सकता है।</string>
+    <string name="support_prompt_not_now">अभी नहीं</string>
+    <string name="support_prompt_optional">वैकल्पिक</string>
+    <string name="support_prompt_policy">गोपनीयता नीति</string>
+    <string name="support_prompt_privacy">आपकी निजी फ़ाइलों, फ़ोटो या संदेशों तक पहुँच नहीं लेता।</string>
+    <string name="support_prompt_terms">चालू करके आप SDK की शर्तों और गोपनीयता नीति से सहमत होते हैं।</string>
+    <string name="support_prompt_title">Rulivo को मुफ़्त रखने में मदद करें</string>
+    <string name="support_prompt_unavailable">इस संस्करण में सहायता मोड उपलब्ध नहीं है।</string>
+</resources>

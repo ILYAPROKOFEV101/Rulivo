@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Transparent scale marks remain visible when Android tints the entire layer. -->
+    <group android:translateX="22" android:translateY="22"
+        android:scaleX="0.125" android:scaleY="0.125">
+        <group android:rotation="-32" android:pivotX="256" android:pivotY="256">
+            <path android:fillColor="#FFFFFF" android:fillType="evenOdd"
+                android:pathData="M65,200H447Q465,200 465,218V296Q465,314 447,314H65Q47,314 47,296V218Q47,200 65,200Z M79,211H79Q84,211 84,216V250Q84,255 79,255H79Q74,255 74,250V216Q74,211 79,211Z M123,211H123Q128,211 128,216V230Q128,235 123,235H123Q118,235 118,230V216Q118,211 123,211Z M167,211H167Q172,211 172,216V250Q172,255 167,255H167Q162,255 162,250V216Q162,211 167,211Z M211,211H211Q216,211 216,216V230Q216,235 211,235H211Q206,235 206,230V216Q206,211 211,211Z M255,211H255Q260,211 260,216V250Q260,255 255,255H255Q250,255 250,250V216Q250,211 255,211Z M299,211H299Q304,211 304,216V230Q304,235 299,235H299Q294,235 294,230V216Q294,211 299,211Z M343,211H343Q348,211 348,216V250Q348,255 343,255H343Q338,255 338,250V216Q338,211 343,211Z M387,211H387Q392,211 392,216V230Q392,235 387,235H387Q382,235 382,230V216Q382,211 387,211Z M431,211H431Q436,211 436,216V250Q436,255 431,255H431Q426,255 426,250V216Q426,211 431,211Z" />
+        </group>
+        <path android:fillColor="@android:color/transparent" android:strokeColor="#FFFFFF"
+            android:strokeWidth="20" android:strokeLineCap="round" android:strokeLineJoin="round"
+            android:pathData="M138,72H88Q72,72 72,88V138M374,435H422Q442,435 442,415V372" />
+    </group>
+</vector>
+

@@ -1,0 +1,1 @@
+trial_id,cohort,algorithm,scenario,support,model,depth_mode,session_id,measurement_id,reference_cm,reference_uncertainty_cm,camera_distance_cm,lighting,surface,status,failure_reason,point1_time_s,point2_time_s,attempt_time_s,notes

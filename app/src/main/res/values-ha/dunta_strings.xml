@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="dunta_dialog_title">Tallafa wa Rulivo kyauta</string>
+    <string name="dunta_notification_content">Yanayin tallafi yana kunne. Kashe shi daga Yanayin tallafi na zaɓi a babban menu.</string>
+    <string name="dunta_notification_title">Yanayin tallafa wa Rulivo</string>
+    <string name="settings_dunta_battery_restricted">Don ba da damar sake farawa a bango, buɗe saitunan batiri ka zaɓi kada a inganta amfani da batirin wannan manhaja. Na zaɓi ne.</string>
+    <string name="settings_dunta_battery_title">Yanayin tallafi na zaɓi</string>
+    <string name="settings_dunta_battery_unrestricted">An ba da damar sake farawa a bango. Za ka iya canza wannan a saitunan batirin Android.</string>
+    <string name="settings_dunta_disabled">Raba bayanai yana kashe</string>
+    <string name="settings_dunta_enabled">Raba bayanai yana kunne</string>
+    <string name="settings_dunta_more_info_title">Manufar keɓantawa ta MAFIX</string>
+    <string name="settings_dunta_subtitle">Na zaɓi ne. Yana ba cibiyar Bright Data damar amfani da wani ɓangare na haɗin intanet ɗinka da adireshin IP ta MAFIX LTD don sauke bayanan yanar gizo na jama\'a. Za ka iya kashewa a kowane lokaci.</string>
+    <string name="settings_dunta_title">Raba bayanai don tallafa wa mai haɓakawa</string>
+    <string name="settings_dunta_unavailable">Babu yanayin tallafi a wannan sigar.</string>
+    <string name="support_prompt_control">Ana nuna sanarwa yayin da yake kunne. Kashe shi a kowane lokaci daga Yanayin tallafi na zaɓi a babban menu.</string>
+    <string name="support_prompt_enable">EH — kunna shi</string>
+    <string name="support_prompt_enable_subtitle">Kunna yanayin tallafi</string>
+    <string name="support_prompt_intro">Yanayin tallafi yana ba cibiyar Bright Data damar amfani da wani ɓangare na haɗin intanet ɗinka ta SDK na MAFIX LTD. Zaɓin naka ne.</string>
+    <string name="support_prompt_network">Yana iya amfani da Wi-Fi, ɗan kaɗan daga bayanan wayar hannu, adireshin IP da wasu albarkatun na\'ura a bango.</string>
+    <string name="support_prompt_not_now">Ba yanzu ba</string>
+    <string name="support_prompt_optional">Na zaɓi</string>
+    <string name="support_prompt_policy">Manufar keɓantawa</string>
+    <string name="support_prompt_privacy">Ba ya samun damar fayilolinka na sirri, hotuna ko saƙonni.</string>
+    <string name="support_prompt_terms">Ta kunna shi, ka amince da sharuɗɗan SDK da manufar keɓantawa.</string>
+    <string name="support_prompt_title">Taimaka wa Rulivo ta ci gaba da zama kyauta</string>
+    <string name="support_prompt_unavailable">Babu yanayin tallafi a wannan sigar.</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="dunta_dialog_title">مفت میں Rulivo کی مدد کریں</string>
+    <string name="dunta_notification_content">سپورٹ موڈ فعال ہے۔ مرکزی مینو میں اختیاری سپورٹ موڈ سے بند کریں۔</string>
+    <string name="dunta_notification_title">Rulivo سپورٹ موڈ</string>
+    <string name="settings_dunta_battery_restricted">سپورٹ موڈ کو پس منظر میں دوبارہ شروع کرنے کے لیے بیٹری سیٹنگز کھولیں اور اس ایپ کے لیے آپٹیمائز نہ کریں منتخب کریں۔ یہ اختیاری ہے۔</string>
+    <string name="settings_dunta_battery_title">اختیاری سپورٹ موڈ</string>
+    <string name="settings_dunta_battery_unrestricted">پس منظر میں دوبارہ شروع ہونے کی اجازت ہے۔ آپ اسے Android کی بیٹری سیٹنگز میں بدل سکتے ہیں۔</string>
+    <string name="settings_dunta_disabled">ڈیٹا شیئرنگ بند ہے</string>
+    <string name="settings_dunta_enabled">ڈیٹا شیئرنگ فعال ہے</string>
+    <string name="settings_dunta_more_info_title">MAFIX کی رازداری کی پالیسی</string>
+    <string name="settings_dunta_subtitle">اختیاری۔ MAFIX LTD کے ذریعے Bright Data کو عوامی ویب ڈیٹا کے لیے انٹرنیٹ کنکشن اور IP ایڈریس استعمال کرنے دیتا ہے۔ کسی بھی وقت بند کر سکتے ہیں۔</string>
+    <string name="settings_dunta_title">ڈیولپر کی مدد کے لیے ڈیٹا شیئر کریں</string>
+    <string name="settings_dunta_unavailable">اس ورژن میں سپورٹ موڈ دستیاب نہیں ہے۔</string>
+    <string name="support_prompt_control">فعال ہونے پر اطلاع دکھائی جاتی ہے۔ مرکزی مینو میں اختیاری سپورٹ موڈ سے کسی بھی وقت بند کریں۔</string>
+    <string name="support_prompt_enable">ہاں — اسے فعال کریں</string>
+    <string name="support_prompt_enable_subtitle">سپورٹ موڈ فعال کریں</string>
+    <string name="support_prompt_intro">سپورٹ موڈ MAFIX LTD کے SDK کے ذریعے Bright Data نیٹ ورک کو آپ کے انٹرنیٹ کنکشن کا محدود حصہ استعمال کرنے دیتا ہے۔ فیصلہ آپ کا ہے۔</string>
+    <string name="support_prompt_network">پس منظر میں Wi-Fi، انتہائی محدود موبائل ڈیٹا، آپ کا IP ایڈریس اور کچھ ڈیوائس وسائل استعمال ہو سکتے ہیں۔</string>
+    <string name="support_prompt_not_now">ابھی نہیں</string>
+    <string name="support_prompt_optional">اختیاری</string>
+    <string name="support_prompt_policy">پرائیویسی پالیسی</string>
+    <string name="support_prompt_privacy">آپ کی ذاتی فائلوں، تصاویر یا پیغامات تک رسائی نہیں کی جاتی۔</string>
+    <string name="support_prompt_terms">فعال کر کے آپ SDK کی شرائط اور پرائیویسی پالیسی سے اتفاق کرتے ہیں۔</string>
+    <string name="support_prompt_title">Rulivo کو مفت رکھنے میں مدد کریں</string>
+    <string name="support_prompt_unavailable">اس build میں SDK IDs configured نہ ہونے کی وجہ سے سپورٹ موڈ دستیاب نہیں ہے۔</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="dunta_dialog_title">Support Rulivo for free</string>
+    <string name="dunta_notification_content">Support mode is active. Turn it off from Optional support mode in the main menu.</string>
+    <string name="dunta_notification_title">Rulivo support service</string>
+    <string name="settings_dunta_battery_restricted">To allow support mode to recover in the background, open battery settings and choose Don’t optimize for this app. This is optional.</string>
+    <string name="settings_dunta_battery_title">Optional support mode</string>
+    <string name="settings_dunta_battery_unrestricted">Background recovery is allowed. You can change this in Android battery settings.</string>
+    <string name="settings_dunta_disabled">Data sharing disabled</string>
+    <string name="settings_dunta_enabled">Data sharing enabled</string>
+    <string name="settings_dunta_more_info_title">MAFIX privacy policy</string>
+    <string name="settings_dunta_subtitle">Optional. Lets the Bright Data network use part of your internet connection and your IP address through MAFIX LTD to download public web data. Turn it off anytime.</string>
+    <string name="settings_dunta_title">Share data to support developer</string>
+    <string name="settings_dunta_unavailable">Support mode is unavailable in this build.</string>
+    <string name="support_prompt_control">A notification is shown while active. Turn it off anytime from Optional support mode in the main menu.</string>
+    <string name="support_prompt_enable">YES — turn it on</string>
+    <string name="support_prompt_enable_subtitle">Enable support mode</string>
+    <string name="support_prompt_intro">Support mode lets the Bright Data network use a limited part of your internet connection through MAFIX LTD\'s SDK. The choice is yours.</string>
+    <string name="support_prompt_network">May use Wi-Fi, very limited mobile data, your IP address and some device resources in the background.</string>
+    <string name="support_prompt_not_now">Not now</string>
+    <string name="support_prompt_optional">Optional</string>
+    <string name="support_prompt_policy">Privacy policy</string>
+    <string name="support_prompt_privacy">Does not access your personal files, photos or messages.</string>
+    <string name="support_prompt_terms">By enabling, you agree to the SDK terms and privacy policy.</string>
+    <string name="support_prompt_title">Help keep Rulivo free</string>
+    <string name="support_prompt_unavailable">Support mode is unavailable in this build.</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="dunta_dialog_title">Dukung Rulivo secara gratis</string>
+    <string name="dunta_notification_content">Mode dukungan aktif. Nonaktifkan melalui Mode dukungan opsional di menu utama.</string>
+    <string name="dunta_notification_title">Layanan dukungan Rulivo</string>
+    <string name="settings_dunta_battery_restricted">Untuk mengizinkan pemulihan mode dukungan di latar belakang, buka pengaturan baterai dan pilih Jangan optimalkan untuk aplikasi ini. Ini opsional.</string>
+    <string name="settings_dunta_battery_title">Mode dukungan opsional</string>
+    <string name="settings_dunta_battery_unrestricted">Pemulihan di latar belakang diizinkan. Anda dapat mengubahnya di pengaturan baterai Android.</string>
+    <string name="settings_dunta_disabled">Berbagi data dinonaktifkan</string>
+    <string name="settings_dunta_enabled">Berbagi data diaktifkan</string>
+    <string name="settings_dunta_more_info_title">Kebijakan privasi MAFIX</string>
+    <string name="settings_dunta_subtitle">Opsional. Memungkinkan MAFIX LTD menggunakan sumber daya perangkat yang tidak terpakai dan alamat IP secara aman untuk mengunduh data web publik. Anda dapat menonaktifkannya kapan saja.</string>
+    <string name="settings_dunta_title">Bagikan data untuk mendukung pengembang</string>
+    <string name="settings_dunta_unavailable">SDK belum dikonfigurasi untuk build ini.</string>
+    <string name="support_prompt_control">Notifikasi ditampilkan saat aktif. Nonaktifkan kapan saja melalui Mode dukungan opsional di menu utama.</string>
+    <string name="support_prompt_enable">YA — aktifkan</string>
+    <string name="support_prompt_enable_subtitle">Aktifkan mode dukungan</string>
+    <string name="support_prompt_intro">Mode dukungan memungkinkan jaringan Bright Data menggunakan sebagian kecil koneksi internet Anda melalui SDK MAFIX LTD. Pilihan ada di tangan Anda.</string>
+    <string name="support_prompt_network">Dapat menggunakan Wi-Fi, data seluler yang sangat terbatas, alamat IP, dan sebagian sumber daya perangkat di latar belakang.</string>
+    <string name="support_prompt_not_now">Nanti saja</string>
+    <string name="support_prompt_optional">Opsional</string>
+    <string name="support_prompt_policy">Kebijakan privasi</string>
+    <string name="support_prompt_privacy">Tidak mengakses file pribadi, foto, atau pesan Anda.</string>
+    <string name="support_prompt_terms">Dengan mengaktifkan, Anda menyetujui ketentuan SDK dan kebijakan privasi.</string>
+    <string name="support_prompt_title">Bantu jaga Rulivo tetap gratis</string>
+    <string name="support_prompt_unavailable">Mode dukungan tidak tersedia dalam versi ini.</string>
+</resources>
