@@ -2,9 +2,20 @@
 
 <img src="docs/portfolio/icon.png" width="72" alt="Rulivo app icon" align="left">
 
-An Android measurement toolkit for turning camera observations into distances, surface areas, volumes, fit checks, and material estimates. Users can build a shape in AR, refine its dimensions, and keep the result with its original inputs and measurement sources.
+**Android measurement toolkit with a custom AR capture and rendering pipeline.**
 
-[Google Play](https://play.google.com/store/apps/details?id=com.ilya.rulivo) · `com.ilya.rulivo` · Android 7.0+ · Kotlin / Compose / ARCore / OpenGL ES
+Capture real-world dimensions, build shapes in AR, check whether an object fits, and estimate materials. Refine dimensions manually and save each result with its original inputs and measurement sources.
+
+`Kotlin` · `Jetpack Compose` · `ARCore` · `OpenGL ES` · `Coroutines / StateFlow` · `Android 7.0+`
+
+[Google Play](https://play.google.com/store/apps/details?id=com.ilya.rulivo) · [Engineering decisions](#engineering-decisions) · [Architecture](#architecture) · [Build and run](#build-and-run) · [Verification](#verification-and-boundaries)
+
+## Engineering at a glance
+
+- **Real-time resource ownership.** ARCore sessions, frames, and anchors stay under one controller; revision-checked commands cross into the GL thread and detached snapshots return to the UI. [AR controller](app/src/main/java/com/ilya/rulivo/ar/ArMeasurementController.kt)
+- **Spatial algorithms and custom rendering.** Project 3D contours onto a plane, validate polygons, triangulate concave fills, and draw geometry and cached labels in OpenGL ES. [Contour geometry](app/src/main/java/com/ilya/rulivo/ar/ContourGeometry.kt) · [Renderer](app/src/main/java/com/ilya/rulivo/ar/MeasurementRenderer.kt)
+- **Data recovery and state consistency.** Retain editable drafts with `SavedStateHandle`, serialize history operations with a coroutine `Mutex`, and preserve the last successful file through `AtomicFile` writes. [Toolkit ViewModel](app/src/main/java/com/ilya/rulivo/ui/measurement/ToolkitViewModel.kt) · [Repository](app/src/main/java/com/ilya/rulivo/measure/MeasurementRepository.kt)
+- **Behavior-focused verification.** Separate JVM tests for geometry and scene transitions from Android checks for persistence, Compose UI, rendering, and language switching. Physical AR accuracy has its own documented protocol. [JVM tests](app/src/test) · [Android tests](app/src/androidTest) · [Accuracy protocol](docs/accuracy/PROTOCOL.md)
 
 ## In the app
 
